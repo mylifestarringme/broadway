@@ -1,0 +1,69 @@
+body {
+  text-align: center;
+
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url(file:///Users/Misa/Desktop/Projects/broadway/resources/the-flatiron-building.png);
+  color: white;
+}
+
+.header h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header a {
+  color: white;
+  font-size: 18px;
+}
+
+.header_links {
+  font-size: 18px;
+  color: white;
+}
+
+p,
+h4 {
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.center_banner {
+    background-image: url(file:///Users/Misa/Desktop/Projects/broadway/resources/the-flatiron-building.png);
+    font-size: 23px;
+    font-weight: 23px;
+    color: white;
+}
+
+.footer ul {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+}
+
+.footer ul li {
+        list-style-type: none;
+        display: inline;
+        font-size: 11px;
+  }
+
+    .footer ul li a {
+      font-size: 11px;
+      text-decoration: underline;
+      color: white;
+    }
